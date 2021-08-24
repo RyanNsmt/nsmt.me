@@ -27,8 +27,8 @@ layout: about
 ### 环境
 
 ```
-Intel Core i7-9750H/NVIDIA GeForce GTX 1660Ti/8G DDR4×2/256G NVMe SSD+1T HDD/Windows 10 Pro Workstation
-Intel Core i5-4200H/NVIDIA GeForce GT 940M/4G DDR3L×2/500G SATA3 SSD/Windows 10 Pro+Debian 10
+Intel Core i7-9750H/NVIDIA GeForce GTX 1660Ti/8G DDR4×2/256G NVMe SSD+1T HDD/Windows 10 Pro Workstation + Debian 11
+Intel Core i5-4200H/NVIDIA GeForce GT 940M/4G DDR3L×2/500G SATA3 SSD/Debian 11
 Qualcomm Snapdragon 888/Qualcomm Adreno 660/12G+256G/Android 11
 Qualcomm Snapdragon 835/Qualcomm Adreno 540/4G+64G/Android 9
 ```
@@ -48,7 +48,7 @@ Qualcomm Snapdragon 835/Qualcomm Adreno 540/4G+64G/Android 9
 
 电子邮箱: [&#000114;&#0121;&#0000097;&#0110;&#x0000040;&#000110;&#x73;&#x6d;&#x00074;&#0000046;&#00000109;&#0000101;](mailto:&#000114;&#0121;&#0000097;&#0110;&#x0000040;&#000110;&#x73;&#x6d;&#x00074;&#0000046;&#00000109;&#0000101;)
 
-PGP密钥: [980B 88B9 D0C1 EAD7 E4B9 777B 4FA8 23BB 46C7 F033](../key/gpg.txt) / [下载](../key/gpg.asc)
+PGP密钥: [6D80 C262 002C 5CE2](../key/gpg.txt) / [下载](../key/gpg.asc)
 <br>
 <br>
 
@@ -70,4 +70,4 @@ Powered by [Hexo](https://hexo.io) and [GitHub Pages](https://pages.github.com/)
 
 E-mail: [&#000114;&#0121;&#0000097;&#0110;&#x0000040;&#000110;&#x73;&#x6d;&#x00074;&#0000046;&#00000109;&#0000101;](mailto:&#000114;&#0121;&#0000097;&#0110;&#x0000040;&#000110;&#x73;&#x6d;&#x00074;&#0000046;&#00000109;&#0000101;)
 
-PGP Key: [980B 88B9 D0C1 EAD7 E4B9 777B 4FA8 23BB 46C7 F033](../key/gpg.txt) / [Download](../key/gpg.asc)
+PGP Key: [6D80 C262 002C 5CE2](../key/gpg.txt) / [Download](../key/gpg.asc)
