@@ -8,7 +8,7 @@ layout: about
 
 你好，我是西本，这是我的个人主页。
 
-位于中国大陆中部地区某城市，学生です。平常喜欢研究各种奇奇怪怪的东西，从而学到了很多~~没用的~~技能。
+位于中国大陆中部地区某城市，社畜です。平常喜欢研究各种奇奇怪怪的东西，从而学到了很多~~没用的~~技能。
 
 热爱 [自由软件](http://www.gnu.org/philosophy/free-sw.zh-cn.html) 、 [GNU/Linux](http://www.gnu.org/gnu/gnu-linux-faq.zh-cn.html#why) ，更觉得 [开源错失了自由软件的重点](http://www.gnu.org/philosophy/open-source-misses-the-point.zh-cn.html) ，但并不完全赞同 [Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman) 的观点，总的来说属于 [绝对中立](https://zh.wikipedia.org/wiki/%E9%98%B5%E8%90%A5_(%E9%BE%99%E4%B8%8E%E5%9C%B0%E4%B8%8B%E5%9F%8E)#%E7%BB%9D%E5%AF%B9%E4%B8%AD%E7%AB%8B)。
 
@@ -20,14 +20,14 @@ layout: about
 
 ### 擅长领域
 
-本人熟练掌握 `Ps,Au,Pr,Lr,Ae,Ai` 等Adobe全家桶的安装与卸载， `C++,Python,HTML,CSS,JavaScript,PHP` 等语言的名称拼写， `Windows Server,Debian,Ubuntu,CentOS` 等系统的开关机， `吉他、贝司、键盘、架子鼓` 等乐器的音色分辨等。
+本人熟练掌握 `Ps,Au,Pr,Lr,Ae,Ai` 等Adobe全家桶的安装与卸载， `C,C++,Python,HTML,CSS,JavaScript,PHP` 等语言的名称拼写， `Windows Server,Debian,Ubuntu,CentOS` 等系统的开关机， `吉他、贝司、键盘、架子鼓` 等乐器的音色分辨等。
 
 实际上啥都不会。
 
 ### 环境
 
 ```
-Intel Core i7-9750H/NVIDIA GeForce GTX 1660Ti/8G DDR4×2/256G NVMe SSD+1T HDD/Windows 10 Pro Workstation + Debian 11
+Intel Core i7-9750H/NVIDIA GeForce GTX 1660Ti/8G DDR4×2/256G NVMe SSD+1T HDD/Debian 11 + Windows 11 Pro Workstation
 Intel Core i5-4200H/NVIDIA GeForce GT 940M/4G DDR3L×2/500G SATA3 SSD/Debian 11
 Qualcomm Snapdragon 888/Qualcomm Adreno 660/12G+256G/Android 11
 Qualcomm Snapdragon 835/Qualcomm Adreno 540/4G+64G/Android 9
@@ -60,7 +60,7 @@ Hello, I'm Ryan. This is my homepage. I'm a student from Mainland China.
 
 I love [Free Software](http://www.gnu.org/philosophy/free-sw.en.html) (“Free” is like “free speech”, not “free beer”) and [GNU/Linux](http://www.gnu.org/gnu/gnu-linux-faq.en.html#why).
 
-I also love ACG and music. [Rimi Nishimoto](https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%9C%AC%E3%82%8A%E3%81%BF) is my favorite Bassist.
+I also love ACG (an abbreviation for the Anime, Comic and Game) and music. [Rimi Nishimoto](https://ja.wikipedia.org/wiki/%E8%A5%BF%E6%9C%AC%E3%82%8A%E3%81%BF) is my favorite Bassist.
 
 ## About this website
 
